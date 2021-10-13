@@ -1,0 +1,17 @@
+{
+  "title": "Diary of a Male Porn Star ",
+  "description": "no description",
+  "artist": "Kaeruno Erefante",
+  "author": "Kaeruno Erefante",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
